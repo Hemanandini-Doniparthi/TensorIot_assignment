@@ -1,0 +1,8 @@
+Car with license plate 5303515 parked successfully in spot 12
+Car with license plate 2635104 parked successfully in spot 0
+Car with license plate 6730822 parked successfully in spot 9
+Car with license plate 2500882 parked successfully in spot 2
+Car with license plate 9589696 parked successfully in spot 17
+Car with license plate 9026371 parked successfully in spot 3
+Car with license plate 8715655 parked successfully in spot 6
+Spot 17 is occupied. Car with license plate 4818309 could not be parked.
